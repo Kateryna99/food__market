@@ -1,0 +1,104 @@
+@font-face {
+    font-family: 'Martel Sans';
+    src: url('../fonts/MartelSans/MartelSans-regular/MartelSans-Regular.eot');
+    src: url('../fonts/MartelSans/MartelSans-regular/MartelSans-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/MartelSans/MartelSans-regular/MartelSans-Regular.woff2') format('woff2'),
+    url('../fonts/MartelSans/MartelSans-regular/MartelSans-Regular.woff') format('woff'),
+    url('../fonts/MartelSans/MartelSans-regular/MartelSans-Regular.ttf') format('truetype'),
+    url('../fonts/MartelSans/MartelSans-regular/MartelSans-Regular.svg#MartelSans-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Martel Sans';
+    src: url('../fonts/MartelSans/MartelSans-ExtraBold/MartelSans-ExtraBold.eot');
+    src: url('../fonts/MartelSans/MartelSans-ExtraBold/MartelSans-ExtraBold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/MartelSans/MartelSans-ExtraBold/MartelSans-ExtraBold.woff2') format('woff2'),
+    url('../fonts/MartelSans/MartelSans-ExtraBold/MartelSans-ExtraBold.woff') format('woff'),
+    url('../fonts/MartelSans/MartelSans-ExtraBold/MartelSans-ExtraBold.ttf') format('truetype'),
+    url('../fonts/MartelSans/MartelSans-ExtraBold/MartelSans-ExtraBold.svg#MartelSans-ExtraBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Martel Sans';
+    src: url('../fonts/MartelSans/MartelSans-Bold/MartelSans-Bold.eot');
+    src: url('../fonts/MartelSans/MartelSans-Bold/MartelSans-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/MartelSans/MartelSans-Bold/MartelSans-Bold.woff2') format('woff2'),
+    url('../fonts/MartelSans/MartelSans-Bold/MartelSans-Bold.woff') format('woff'),
+    url('../fonts/MartelSans/MartelSans-Bold/MartelSans-Bold.ttf') format('truetype'),
+    url('../fonts/MartelSans/MartelSans-Bold/MartelSans-Bold.svg#MartelSans-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Martel Sans';
+    src: url('../fonts/MartelSans/MartelSans-Light/MartelSans-Light.eot');
+    src: url('../fonts/MartelSans/MartelSans-Light/MartelSans-Light.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/MartelSans/MartelSans-Light/MartelSans-Light.woff2') format('woff2'),
+    url('../fonts/MartelSans/MartelSans-Light/MartelSans-Light.woff') format('woff'),
+    url('../fonts/MartelSans/MartelSans-Light/MartelSans-Light.ttf') format('truetype'),
+    url('../fonts/MartelSans/MartelSans-Light/MartelSans-Light.svg#MartelSans-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Open Sans Condensed';
+    src: url('../fonts/OpenSans/OpenSansCondensed-bold/OpenSansCondensed-Bold.eot');
+    src: url('../fonts/OpenSans/OpenSansCondensed-bold/OpenSansCondensed-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/OpenSans/OpenSansCondensed-bold/OpenSansCondensed-Bold.woff2') format('woff2'),
+    url('../fonts/OpenSans/OpenSansCondensed-bold/OpenSansCondensed-Bold.woff') format('woff'),
+    url('../fonts/OpenSans/OpenSansCondensed-bold/OpenSansCondensed-Bold.ttf') format('truetype'),
+    url('../fonts/OpenSans/OpenSansCondensed-bold/OpenSansCondensed-Bold.svg#OpenSansCondensed-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/Poppins/Poppins-SemiBold/Poppins-SemiBold.eot');
+    src: url('../fonts/Poppins/Poppins-SemiBold/Poppins-SemiBold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Poppins/Poppins-SemiBold/Poppins-SemiBold.woff2') format('woff2'),
+    url('../fonts/Poppins/Poppins-SemiBold/Poppins-SemiBold.woff') format('woff'),
+    url('../fonts/Poppins/Poppins-SemiBold/Poppins-SemiBold.ttf') format('truetype'),
+    url('../fonts/Poppins/Poppins-SemiBold/Poppins-SemiBold.svg#Poppins-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/Poppins/Poppins-Regular/Poppins-Regular.eot');
+    src: url('../fonts/Poppins/Poppins-Regular/Poppins-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Poppins/Poppins-Regular/Poppins-Regular.woff2') format('woff2'),
+    url('../fonts/Poppins/Poppins-Regular/Poppins-Regular.woff') format('woff'),
+    url('../fonts/Poppins/Poppins-Regular/Poppins-Regular.ttf') format('truetype'),
+    url('../fonts/Poppins/Poppins-Regular/Poppins-Regular.svg#Poppins-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/Poppins/Poppins-Light/Poppins-Light.eot');
+    src: url('../fonts/Poppins/Poppins-Light/Poppins-Light.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Poppins/Poppins-Light/Poppins-Light.woff2') format('woff2'),
+    url('../fonts/Poppins/Poppins-Light/Poppins-Light.woff') format('woff'),
+    url('../fonts/Poppins/Poppins-Light/Poppins-Light.ttf') format('truetype'),
+    url('../fonts/Poppins/Poppins-Light/Poppins-Light.svg#Poppins-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
